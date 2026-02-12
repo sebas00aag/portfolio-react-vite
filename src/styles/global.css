@@ -601,6 +601,8 @@ button, input, textarea{ font: inherit; }
     border-radius: 14px;
     color: rgba(255,255,255,.86);
     font-style: italic;
+    text-align: center;
+
 }
 
 .contact-quick{
