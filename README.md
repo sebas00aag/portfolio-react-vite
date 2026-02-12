@@ -19,7 +19,7 @@ npm run build
 npm run preview
 ```
 
-### Qué incluye
+### ¿Qué incluye?
 - React + Vite
 - Secciones: Home / About / Projects / Contact
 - i18n simple ES/EN con localStorage
