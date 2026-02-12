@@ -115,7 +115,7 @@ export default function Contact() {
                                 {t("contact_view_projects")}
                             </button>
 
-                            <a className="btn" href="/cv.pdf" target="_blank" rel="noreferrer">
+                            <a className="btn" href="https://drive.google.com/file/d/1ANX2Z87O-_RHyVuu-KQc5uzUNTiki23q/view?usp=sharing" target="_blank" rel="noreferrer">
                                 {t("contact_view_cv")}
                             </a>
                         </div>
